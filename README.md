@@ -85,11 +85,12 @@ $request + cüzdan adresi
 # Şimdi yapacaklarımızı çok basit bir dille anlatacağım 1-2 kez okuyalım lütfen.
 
 * Altta ki kodu kopyalayın.
-* https://www.utilities-online.info/base64 üzerine gidin.
 
 ```
 eyJjaGFubmVsIjoiY2hhbm5lbC03OSIsInJlbW90ZV9hZGRyZXNzIjoic2VpMXAwdDZha3M3dGpzdTB5OXNqaHNwNXQ1Z2t1bmtjODlheHg0Mnk3In0=
 ```
+
+* https://www.utilities-online.info/base64 üzerine gidin.
 
 * Altta ki görselde ki gibi sol tarafa yapıştırın
 * Ortada Decode butonuna tıklayın.
