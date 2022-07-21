@@ -158,8 +158,13 @@ Sırasıyla:
 
 https://github.com/ruesandora/sei-atlantic-1/blob/main/seinami-testnet-mission.md
 
+---------------------------------------------------------------------------------------------
 
-# TOKEN OLUŞTURMAK İSTEMEUYENLERE KOLAY YOL:
+# IBC TRANASFER:
+
+
+
+# TOKEN OLUŞTURMAK İSTEMEYENLERE KOLAY YOL:
 
 ### Keplr ayarlardan IBC Transferi açıyoruz.
 
