@@ -54,7 +54,9 @@ $request + cüzdan adresi
 
 ![image](https://user-images.githubusercontent.com/101149671/180021850-ba831712-5d00-4a0b-b413-d6c927aba349.png)
 
-# Şimdi Transaction details ekranı çıkacak karşınıza ve Contract Address'e tıklıyoruz ve Juno Blueprints sayfası açılacak.
+# Şimdi Transaction details ekranı çıkacak karşınıza ve Contract Address'e tıklıyoruz ve Juno Blueprints sayfası açılacak. 
+
+### BU SAYFAYI SAKLAYIN msg KISMINI BURAYA YAZACAĞIZ
 
 * Bu arada keplr juno ağında alt kısma bakın tokeniniz gözükecek.
 
@@ -97,7 +99,7 @@ eyJjaGFubmVsIjoiY2hhbm5lbC03OSIsInJlbW90ZV9hZGRyZXNzIjoic2VpMXAwdDZha3M3dGpzdTB5
 * Altta ki görselde ki gibi sol tarafa yapıştırın
 * Ortada Decode butonuna tıklayın.
 * Sağda görselde ki gibi {"channel diye başlayan bir kod çıkacak, o kodun sonunda remote_address ve sei adresi yazar.
-* O sei adresini kendi keplr cüzdanınızda ki sei adresi ile değiştirin. (çünkü benim adresim o)
+* O sei testnet adresi ile değiştirin. (çünkü benim adresim o)
 * Değiştirdikten sonra kopyalayıp sol tarafa yapıştırın.
 * İlk başta decode demiştik şimdi encode yapıyoruz.
 * Şimdi size ait bir MSG oluştu, yukarıda paylaştığım komutun benzeri.
@@ -131,7 +133,7 @@ Sırasıyla:
 
 ### Daha sonra MSG kısmında resimde gösterdiğim gibi tırnak işaretleri içersinde olan (") kodu siliyoruz.
 
-* Yukarıda kodu çevirmiştik kendi sei adresimizi girmiştik hatırlarsınız onu kopyalıyoruz.
+* Yukarıda kodu çevirmiştik kendi sei  testnet adresimizi girmiştik hatırlarsınız onu kopyalıyoruz.
 * MSG kısmında sildiğimiz tırnak işaretleri arasına yapıştırıp execute kontrat diyoruz.
 * Bunu yaptıktan sonra cüzdanınızdan 1 tane kendı oluşturduğunuz token gidecek.
 
@@ -172,7 +174,7 @@ Sırasıyla:
 * Select channel'dan en altta sei seçiyoruz.
 * channel ID channel-35 yazıyoruz.
 * save diyoruz
-* daha sonra sei testnet cüzdan adresimizi veya keplrdaki adresımızı kopyalıyoruz (explorerden alın)
+* daha sonra sei testnet cüzdan adresimizi kopylaıyoruz (explorerden alın)
 * adres kısmına (Recipient) giriyoruz.
 * Memo boş kalacak
 * daha sonra token oluşturduysanız tokeninizi veya juno seçiyoruz.
