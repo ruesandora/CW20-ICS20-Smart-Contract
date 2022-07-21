@@ -22,6 +22,8 @@
 
 * En önemlisi tüm floodu okuma becerisi <3
 
+# BEN TOKEN OLUŞTURMAYACAĞIM, EN KISA YOLU GÖSTER HOCAM DERSEN FLOODUN SONUNDA.
+
 # İlk önce yeni bir keplr cüzandan sei'de ki 12 kelimemizi kullanarak cüzdan oluşturuyoruz.
 
 ### Daha sonra https://testnets.cosmosrun.info/sei-testnet üzerine gidip sağ üsten cüzdanı bağlamalıyız.
@@ -153,6 +155,33 @@ Sırasıyla:
 ### Daha sonra bunu altta ki paylaşacağım görevler kısmında bu cw20 tokeni kullanarakta ek işlem yapabilirsiniz.
 
 https://github.com/ruesandora/sei-atlantic-1/blob/main/seinami-testnet-mission.md
+
+
+# TOKEN OLUŞTURMAK İSTEMEUYENLERE KOLAY YOL:
+
+### Keplr ayarlardan IBC Transferi açıyoruz.
+
+![image](https://user-images.githubusercontent.com/101149671/180145089-86f0ddd2-e146-4ef7-a895-a079c98d7f69.png)
+
+### Juno test ağına gelip en alttan IBC transfer diyoruz:
+
+Sırasıyla:
+
+* Select chain
+* New IBC Transfer Channel
+* Select channel'dan en altta sei seçiyoruz.
+* channel ID channel-35 yazıyoruz.
+* save diyoruz
+* daha sonra sei testnet cüzdan adresimizi veya keplrdaki adresımızı kopyalıyoruz (explorerden alın)
+* adres kısmına (Recipient) giriyoruz.
+* Memo boş kalacak
+* daha sonra token oluşturduysanız tokeninizi veya juno seçiyoruz.
+* Sırasıyla submit ve approve diyerek 3-5dk geçmesini bekliyoruz.
+
+### Görselde ki gibi explorerde gözükecek işlem tamamlanınca: biraz uzun sürebilir
+
+![image](https://user-images.githubusercontent.com/101149671/180145951-7bc4755a-ee5f-44eb-a253-e4ebc7ac25a5.png)
+
 
 # Hesaplar:
 
