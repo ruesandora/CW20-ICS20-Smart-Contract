@@ -142,7 +142,28 @@ Sırasıyla:
 
 ![image](https://user-images.githubusercontent.com/101149671/180030336-0363a981-02a3-42da-8f98-d86c735e9a7e.png)
 
-# (FLOOD DEVAMI VAR SEİ AĞI  BAŞLAMASINI BEKLIYORUM
+# İşlem sonunda https://sei.explorers.guru/validators giriyoruz ve sırasıyla:
 
+* Validatorumuze tıklıyoruz
+* En altta kendi cüzdanımızı buluyoruz ve tıklıyoruz
+* Daha sonra böyle bir görselle karşılaşacaksınız, işlem tamam buraya kadar.
+
+![image](https://user-images.githubusercontent.com/101149671/180138007-7ce5d9ab-f9b4-428a-98c2-8426335da36b.png)
+
+### Daha sonra bunu altta ki paylaşacağım görevler kısmında bu cw20 tokeni kullanarakta ek işlem yapabilirsiniz.
+
+https://github.com/ruesandora/sei-atlantic-1/blob/main/seinami-testnet-mission.md
+
+# Hesaplar:
+
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="16px"> Twitter   ](https://twitter.com/Ruesandora0) 
+
+[<img src="https://cdn-icons-png.flaticon.com/512/1336/1336494.png" width="16px"> Forum   ](https://forum.rues.info/index.php)
+
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="16px"> Telegram Announcement   ](https://t.me/RuesAnnouncement)
+
+[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="16px"> Telegram Chat   ](https://t.me/+-l6GpqiNOxFiMTVk)
+
+[Discord](https://discord.gg/ruescommunity)
 
 
